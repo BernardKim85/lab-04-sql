@@ -1,0 +1,201 @@
+id,group,first_name,gender,first_language,race
+1,Team A,Somerset,Male,Kikuyu,Yuman
+2,Alpha Squad,Pavel,Male,Persian,Blackfeet
+3,Team A,Danny,Male,Panjabi,Native Hawaiian
+4,Alpha Squad,Carlin,Male,Samoan,Indonesian
+5,Team A,Rora,Female,Uighur,Iroquois
+6,Alpha Squad,Sigismond,Male,Assamese,Puerto Rican
+7,The Rebels,Grove,Male,Hindi,Micronesian
+8,Alpha Squad,Orella,Female,Assamese,Thai
+9,Group 1,Wendi,Female,Maori,
+10,Team A,Cooper,Male,,Samoan
+11,Team A,Eleanore,Female,Japanese,Shoshone
+12,Team A,Otho,Male,Corsican,Pueblo
+13,Group 1,Hakeem,Male,Guarani,Menominee
+14,Group 1,Hannis,Female,Galician,Japanese
+15,Group 1,Clarinda,Female,Malay,Nicaraguan
+16,Team A,Orton,Male,,White
+17,Alpha Squad,Kennett,Male,Welsh,Native Hawaiian
+18,The Rebels,Catlee,Female,Urdu,Mexican
+19,Team A,Judd,Male,Maori,Asian
+20,,Krissy,Female,Malagasy,Panamanian
+21,The Rebels,Levon,Male,Inuktitut,Central American
+22,Alpha Squad,Robb,Male,,Pakistani
+23,Alpha Squad,Iain,Male,Oromo,Aleut
+24,Team A,Nettie,Female,Aymara,Tohono O'Odham
+25,,Brad,Male,Lao,Mexican
+26,The Rebels,Kimble,Male,Cornish,Asian
+27,The Rebels,Napoleon,Male,Sichuan Yi,Filipino
+28,Alpha Squad,Jephthah,Male,Hindi,Yakama
+29,Alpha Squad,Jeri,Female,Kashmiri,Apache
+30,Team A,Randell,Male,Marshallese,Bolivian
+31,Group 1,Danya,Female,Chinese,Salvadoran
+32,The Rebels,Leeland,Male,Panjabi,Aleut
+33,The Rebels,Agneta,Female,Aymara,Menominee
+34,Team A,Yancy,Male,Zulu,Fijian
+35,Team A,Valentine,Female,Malagasy,Kiowa
+36,Alpha Squad,Erv,Male,Hungarian,Tlingit-Haida
+37,The Rebels,Claudell,Male,,Shoshone
+38,Alpha Squad,Myca,Male,Urdu,Colombian
+39,The Rebels,Marcelia,Female,Swati,Cherokee
+40,Team A,Dall,Male,Church Slavic,Ecuadorian
+41,The Rebels,Andra,Female,Arabic,Yakama
+42,Team A,Ilise,Female,Fijian,Native Hawaiian
+43,Group 1,Brandon,Male,Icelandic,Cherokee
+44,Team A,Codie,Male,"Greek, Modern (1453-)",Uruguayan
+45,The Rebels,Rahal,Female,Nauru,Latin American Indian
+46,Team A,Augusta,Female,Japanese,Yuman
+47,The Rebels,Melisa,Female,Gujarati,Bangladeshi
+48,Group 1,Odilia,Female,Japanese,Filipino
+49,The Rebels,Ginnifer,Female,Fulah,Black or African American
+50,,Antonio,Male,Ewe,Chippewa
+51,Team A,Trenna,Female,Malayalam,Argentinian
+52,The Rebels,Judye,Female,Latin,Native Hawaiian
+53,The Rebels,Mose,Male,Romansh,Japanese
+54,Alpha Squad,Hamnet,Male,Luba-Katanga,Alaska Native
+55,Alpha Squad,Wittie,Male,Latin,Lumbee
+56,,Tildie,Female,Finnish,Panamanian
+57,The Rebels,Benedicto,Male,Herero,Ecuadorian
+58,Group 1,Lilia,Female,Kashmiri,Chilean
+59,Alpha Squad,Marian,Female,,Tlingit-Haida
+60,Team A,Griswold,Male,Lingala,Paraguayan
+61,Team A,Staci,Female,Ewe,White
+62,Group 1,Giles,Male,Estonian,White
+63,Alpha Squad,Amaleta,Female,Malagasy,Tlingit-Haida
+64,Team A,Creight,Male,Samoan,Chinese
+65,The Rebels,Monti,Male,Persian,Puerto Rican
+66,Alpha Squad,Mischa,Male,Kirghiz,Spaniard
+67,The Rebels,Tildi,Female,Kannada,Thai
+68,Team A,Tricia,Female,Twi,Osage
+69,The Rebels,Roseann,Female,Gaelic,Ute
+70,The Rebels,Gertrude,Female,Inupiaq,Melanesian
+71,The Rebels,Hilly,Male,Irish,Uruguayan
+72,Team A,Trish,Female,Romanian,Hmong
+73,Alpha Squad,Ely,Male,Macedonian,Latin American Indian
+74,Team A,Cristie,Female,Norwegian Nynorsk,Dominican (Dominican Republic)
+75,Alpha Squad,Darill,Male,Czech,Black or African American
+76,Alpha Squad,Emera,Female,Thai,Lumbee
+77,Team A,Ivory,Female,Arabic,Taiwanese
+78,Team A,Prue,Female,Slovenian,Eskimo
+79,Team A,Leanor,Female,Fulah,Seminole
+80,Team A,Toma,Female,Irish,Costa Rican
+81,The Rebels,Izaak,Male,Swati,
+82,Alpha Squad,Suzy,Female,Wolof,Navajo
+83,Alpha Squad,Ludovika,Female,Macedonian,Chippewa
+84,Group 1,Myriam,Female,Mongolian,Sri Lankan
+85,Team A,Caryl,Female,Northern Sami,Salvadoran
+86,Alpha Squad,Ursula,Female,Macedonian,Laotian
+87,The Rebels,Claus,Male,Azerbaijani,Eskimo
+88,The Rebels,Rockey,Male,"Bokmål, Norwegian",Cherokee
+89,The Rebels,Garvin,Male,Lithuanian,Pakistani
+90,Group 1,Elmore,Male,Zhuang,
+91,The Rebels,Chip,Male,Walloon,Navajo
+92,Team A,Berte,Female,Vietnamese,Fijian
+93,Team A,Timofei,Male,Occitan (post 1500),Native Hawaiian and Other Pacific Islander (NHPI)
+94,,Donnajean,Female,Sango,Chickasaw
+95,The Rebels,Rubin,Male,Marshallese,
+96,Alpha Squad,Ford,Male,Northern Sami,Panamanian
+97,Team A,Jo-ann,Female,English,Tohono O'Odham
+98,Team A,Ulises,Male,Fijian,Sioux
+99,The Rebels,Berky,Male,Kikuyu,Iroquois
+100,Group 1,Errick,Male,,Sioux
+101,Group 1,Leese,Female,Turkmen,Chinese
+102,Team A,Lou,Male,Avaric,Choctaw
+103,Group 1,Matelda,Female,Somali,Native Hawaiian and Other Pacific Islander (NHPI)
+104,Group 1,Octavius,Male,Afar,Indonesian
+105,Group 1,Brittni,Female,Kanuri,Chinese
+106,Alpha Squad,Cornie,Female,Georgian,Yakama
+107,The Rebels,Seamus,Male,Cornish,Blackfeet
+108,Group 1,Ronny,Female,Ukrainian,Menominee
+109,Team A,Duffie,Male,Cree,Choctaw
+110,The Rebels,Ettore,Male,Oriya,Samoan
+111,Group 1,Rosie,Female,Welsh,Tongan
+112,Team A,Carola,Female,French,Choctaw
+113,Alpha Squad,Alano,Male,Tibetan,Ottawa
+114,Team A,Antonia,Female,Xhosa,Venezuelan
+115,The Rebels,Moina,Female,German,Guatemalan
+116,Group 1,Daryl,Female,Czech,Indonesian
+117,Alpha Squad,Rolph,Male,Inuktitut,
+118,Team A,Hartley,Male,Malagasy,Hmong
+119,Group 1,Nicolina,Female,Uzbek,South American
+120,Team A,Adriana,Female,Latvian,Potawatomi
+121,Alpha Squad,Adelaida,Female,Ojibwa,Shoshone
+122,The Rebels,Natale,Male,"Bokmål, Norwegian",Samoan
+123,The Rebels,Merrill,Female,Tswana,Fijian
+124,The Rebels,Consolata,Female,Afrikaans,Ecuadorian
+125,Group 1,Robbi,Female,"Ndebele, North",Alaskan Athabascan
+126,,Lauritz,Male,Sango,American Indian
+127,The Rebels,Nani,Female,Somali,Peruvian
+128,The Rebels,Nettle,Female,Malagasy,Paiute
+129,The Rebels,Yasmin,Female,Avestan,Argentinian
+130,Team A,Matthew,Male,Inupiaq,Fijian
+131,The Rebels,Jillane,Female,Nepali,Pima
+132,Alpha Squad,Linet,Female,,Native Hawaiian
+133,Group 1,Garvey,Male,Malayalam,Blackfeet
+134,Group 1,Mallory,Male,Akan,Yakama
+135,Group 1,Adolphus,Male,Turkmen,American Indian and Alaska Native (AIAN)
+136,Group 1,Gabby,Male,Breton,Chilean
+137,The Rebels,Dana,Male,Vietnamese,Mexican
+138,Group 1,Claudio,Male,,Choctaw
+139,The Rebels,Mose,Male,Burmese,Seminole
+140,Team A,Yul,Male,Gujarati,Navajo
+141,Alpha Squad,Wylma,Female,Gaelic,Malaysian
+142,Alpha Squad,Janith,Female,,Colombian
+143,The Rebels,Cassey,Female,"Ndebele, South",Aleut
+144,Team A,Rhetta,Female,Komi,Puerto Rican
+145,Team A,Egor,Male,,Japanese
+146,,Whitman,Male,Hebrew,Cheyenne
+147,Team A,Fanni,Female,Occitan (post 1500),Aleut
+148,Group 1,Harmon,Male,Turkmen,Comanche
+149,Team A,Sheelah,Female,Swati,Peruvian
+150,The Rebels,Billy,Female,Shona,Chinese
+151,Team A,Natalya,Female,Ukrainian,Alaskan Athabascan
+152,,Zita,Female,Yoruba,Panamanian
+153,Team A,Blanche,Female,Inupiaq,Honduran
+154,The Rebels,Mabel,Female,Persian,Uruguayan
+155,Team A,Judie,Female,Sindhi,Uruguayan
+156,The Rebels,Emiline,Female,Maltese,Chickasaw
+157,Group 1,Minda,Female,Zulu,Ottawa
+158,Group 1,Lorette,Female,Thai,Black or African American
+159,,Husain,Male,Fulah,Comanche
+160,Alpha Squad,Morrie,Male,Samoan,Indonesian
+161,Group 1,Rina,Female,Georgian,Potawatomi
+162,Alpha Squad,Coraline,Female,Chichewa,Spaniard
+163,Team A,Ali,Male,Estonian,Aleut
+164,Alpha Squad,Fidole,Male,Ewe,Potawatomi
+165,The Rebels,Thibaut,Male,Pali,
+166,Alpha Squad,Dana,Male,Occitan (post 1500),Shoshone
+167,The Rebels,Dom,Male,Ossetian,Asian Indian
+168,Alpha Squad,Hillard,Male,Croatian,Bangladeshi
+169,Alpha Squad,Charity,Female,Tswana,Crow
+170,The Rebels,Mair,Female,Aragonese,Nicaraguan
+171,Alpha Squad,Son,Male,Volapük,Dominican (Dominican Republic)
+172,The Rebels,Gwenora,Female,Bashkir,Asian Indian
+173,Alpha Squad,Kellyann,Female,"Bokmål, Norwegian",Filipino
+174,Team A,Karalynn,Female,Swedish,Panamanian
+175,Alpha Squad,Ilse,Female,English,Potawatomi
+176,Alpha Squad,Kory,Male,Fulah,Taiwanese
+177,The Rebels,Bert,Male,Swedish,Central American
+178,,Pinchas,Male,Bislama,Dominican (Dominican Republic)
+179,Team A,Chere,Female,Ganda,Japanese
+180,Alpha Squad,Guinevere,Female,Abkhazian,South American
+181,Team A,Quinton,Male,,Yaqui
+182,Group 1,Neil,Male,"Sotho, Southern",
+183,Alpha Squad,York,Male,Gaelic,Guatemalan
+184,,Emmet,Male,Bislama,American Indian
+185,Alpha Squad,Skipp,Male,Norwegian Nynorsk,Aleut
+186,Group 1,Estevan,Male,Swati,Apache
+187,Team A,Gabbie,Female,Limburgan,
+188,Team A,Giffie,Male,Kashmiri,
+189,The Rebels,Jeannie,Female,Herero,Honduran
+190,,Briney,Female,Abkhazian,Creek
+191,Team A,Fania,Female,Gaelic,Delaware
+192,Group 1,Paddy,Male,Slovenian,Chilean
+193,Team A,Lilla,Female,,Latin American Indian
+194,The Rebels,Miranda,Female,Tonga (Tonga Islands),
+195,The Rebels,Carey,Male,Georgian,Yaqui
+196,Group 1,Grant,Male,Tigrinya,Tohono O'Odham
+197,Team A,Ronnica,Female,Yiddish,Cheyenne
+198,Alpha Squad,Galven,Male,Walloon,Houma
+199,Alpha Squad,Harmon,Male,Basque,Peruvian
+200,Team A,Rogerio,Male,Tigrinya,Hmong
