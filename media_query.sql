@@ -1,6 +1,4 @@
-SELECT * FROM users WHERE age > 23;
-
-SELECT users.user_id, posts.user_id
+SELECT users.username, users.age, posts.post_id, posts.datetime, posts.likes
 FROM users
-LEFT JOIN posts on users.user_id = posts.user_id;
-
+JOIN posts ON users.user_id = posts.user_id
+WHERE users.age > 23;
